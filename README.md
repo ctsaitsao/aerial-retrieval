@@ -1,4 +1,3 @@
-# ee495-geospatial-vision-and-visualization
-Repo for my assignments from my EE 495: Geospatial Vision and Visualization class.
-
-Partner: Anuj Karnik
+# Aerial Imagery and OpenStreetMap Retrieval
+### Authors: Christopher Tsai, Anuj Karnik
+Third assignment for EE 495: Geospatial Vision and Visualization, Northwestern University, Spring 2020.
