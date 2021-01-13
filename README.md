@@ -7,6 +7,11 @@ Third assignment for EE 495: Geospatial Vision and Visualization, Northwestern U
 - Use OpenStreetMap (OSM) API to retrieve road network/map.
 - Visualize the map, and then overlay the map on the satellite image.
 
+## Dependencies
+- PIL 
+- OSMnx
+- OpenCV
+
 ## Results
 ### Northwestern University Campus
 Aerial image:
